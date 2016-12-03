@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrozzleDesktopApp", "CrozzalDesktopApp\CrozzleDesktopApp.csproj", "{AED68E81-B71D-4FFB-841B-88A3D9AF65E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrozzleEngine", "CrozzalEngine\CrozzleEngine.csproj", "{DE523A1B-0C6A-4DB8-A004-64FD5B517B5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrozzleEngineTest", "CrozalEngineTest\CrozzleEngineTest.csproj", "{1F0601CA-03D2-444E-8C44-FA525040BA75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AED68E81-B71D-4FFB-841B-88A3D9AF65E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED68E81-B71D-4FFB-841B-88A3D9AF65E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED68E81-B71D-4FFB-841B-88A3D9AF65E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED68E81-B71D-4FFB-841B-88A3D9AF65E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE523A1B-0C6A-4DB8-A004-64FD5B517B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE523A1B-0C6A-4DB8-A004-64FD5B517B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE523A1B-0C6A-4DB8-A004-64FD5B517B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE523A1B-0C6A-4DB8-A004-64FD5B517B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F0601CA-03D2-444E-8C44-FA525040BA75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0601CA-03D2-444E-8C44-FA525040BA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0601CA-03D2-444E-8C44-FA525040BA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0601CA-03D2-444E-8C44-FA525040BA75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
